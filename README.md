@@ -22,10 +22,8 @@
 
 🔹 **Food Wastage Prediction — Group Project**
 * Built a supervised machine learning model in Python, using Pandas, NumPy, and Scikit-learn, to predict the likely amount of food wasted at an event or party based on user-provided event details.
-  
-*Collaborated with a team to collect and preprocess input data, engineer features, train the prediction model, and evaluate its accuracy.
-
-*Applied core data analysis concepts including data cleaning, feature selection, and model evaluation.
+* Collaborated with a team to collect and preprocess input data, engineer features, train the prediction model, and evaluate its accuracy.
+* Applied core data analysis concepts including data cleaning, feature selection, and model evaluation.
 
 
 ### 🛠️ Tech Stack
